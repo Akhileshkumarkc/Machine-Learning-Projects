@@ -1,0 +1,23 @@
+C:\Anaconda3\python.exe "C:/Users/Akhilesh/Desktop/Akhilesh Graduate studies/Sem 2/ML/ML assignments/Assignment 2/NB_LR/LogisiticRegression.py" ./hw2_train/train/ ./hw2_test/test/
+Training path./hw2_train/train/
+Testing path./hw2_test/test/
+The Logisitic Regression Classifier including Stopwords
+init Matrix is built
+---Time Taken: 7.45232629776001 seconds ---
+---Time Taken: 7.452828884124756 seconds ---
+Training is done 
+---Time Taken: 1487.2117459774017 seconds ---
+classification starts
+Accuracy of ham file:0.9482758620689655
+Accuracy of spam file:0.9076923076923077
+---Time Taken: 2816.1487050056458 seconds ---
+The Logisitic Regression Classifier removing Stopwords
+init Matrix is built
+---Time Taken: 2821.4949684143066 seconds ---
+---Time Taken: 2821.495971441269 seconds ---
+classification starts
+Accuracy of ham file:0.9482758620689655
+Accuracy of spam file:0.9076923076923077
+---Time Taken: 4917.70005774498 seconds ---
+
+Process finished with exit code 0

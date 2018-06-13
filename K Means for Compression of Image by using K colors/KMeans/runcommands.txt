@@ -1,0 +1,1 @@
+java KMeans files/Penguins.jpg 50 output/Penguins50.jpg
